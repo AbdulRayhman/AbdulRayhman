@@ -1,13 +1,13 @@
-# 🙋🏻 Hi, My name is Abdul Rehman 💻
+# 👋 Hi, My name is Abdul Rehman 💻
 
-[![Website](https://img.shields.io/static/v1?label=Website&message=%20&color=7A5D9F&logo=Website&style=flat-square&logoColor=white)][website]
+[![Website](https://img.shields.io/static/v1?label=Website&message=%20&color=7A5D9F&logo=&style=flat-square&logoColor=white)][website]
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=0074B0&logo=LinkedIn&style=flat-square&logoColor=white)][linkedin]
 [![twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&color=40B3E4&logo=Twitter&style=flat-square&logoColor=white)][twitter]
 [![instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=7051BC&logo=Instagram&style=flat-square&logoColor=white)][instagram]
 
 ## About me
 
-👩🏻‍💻   I'm working as a Full-Stack Developer! 📱
+👨‍💻   I'm working as a Full-Stack Developer! 💻
 
 <br/>
 
@@ -76,7 +76,8 @@
 
 
 <br/>
-Made with love by [Abdul Rehman](https://github.com/abdulrayhman)  🥰
+
+Made with love by Abdul Rehman (AR) 🥰
 
 
 
